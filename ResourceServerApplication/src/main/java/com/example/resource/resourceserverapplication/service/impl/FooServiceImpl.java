@@ -1,8 +1,8 @@
 package com.example.resource.resourceserverapplication.service.impl;
 
-import com.baeldung.resource.persistence.model.Foo;
-import com.baeldung.resource.persistence.repository.IFooRepository;
-import com.baeldung.resource.service.IFooService;
+import com.example.resource.resourceserverapplication.persistence.model.Foo;
+import com.example.resource.resourceserverapplication.persistence.repository.IFooRepository;
+import com.example.resource.resourceserverapplication.service.IFooService;
 import org.springframework.stereotype.Service;
 
 import java.util.Optional;
